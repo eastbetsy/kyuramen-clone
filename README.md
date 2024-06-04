@@ -1,3 +1,3 @@
-first time using pycharm so I kinda messed up and pushed Github on the wrong account? Or maybe I'm just dumb.  
-(I had 2 accounts signed in together so maybe that was the issue) Oh well, first short-term web project!  
-Fun so far...
+You already know what this project is about.  
+[Kyruramen Original Site](https://www.kyuramen.com/)  
+Restaurant site clone! (my first web project)
