@@ -167,3 +167,12 @@ body {
   0% { opacity: 0; }
   100% { opacity: 1; }
 }
+
+.ramen_preview_section {
+    background-color: sandybrown;
+    color: mintcream;
+    text-align: center;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+}
