@@ -34,3 +34,9 @@ function showSlides(n) {
 document.addEventListener("DOMContentLoaded", function() {
     showSlides(slideIndex);
 });
+
+// home page ramen preview section
+var imgs = document.querySelector('.slider img');
+
+const interval = 3000;
+
