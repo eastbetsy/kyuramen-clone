@@ -211,7 +211,7 @@ body {
   z-index: 0;
 }
 
-#menu-btn {
+button {
   background-color: black;
   padding: 50px 100px 100px 50px;
   text-align: center;
