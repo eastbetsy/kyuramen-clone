@@ -211,9 +211,11 @@ body {
   z-index: 0;
 }
 
-button {
+.menubutton {
   background-color: black;
   padding: 100px 50px 50px 100px;
+  width: 100%;
+  height: auto;
   text-align: center;
   text-decoration: none;
 }
