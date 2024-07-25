@@ -211,11 +211,19 @@ body {
   z-index: 0;
 }
 
+/* menu button span area */
 .menubutton {
   background-color: black;
-  padding: 100px 50px 50px 100px;
+  padding: 100px auto;
   width: 100%;
   height: auto;
+}
+
+/* actual menu button styling */
+#button1 {
+  background-color: black;
+  color: white;
   text-align: center;
+  justify-content: center;
   text-decoration: none;
 }
