@@ -60,42 +60,45 @@
 }
 
 body {
-    margin: 0;
+  margin: 0;
 }
+
 .navbar {
-    background-color: black;
-    overflow: hidden;
+  background-color: black;
+  overflow: hidden;
 
 
 }
+
 .navbar a {
-    text-decoration: none;
-    color: white;
-    text-align: right;
+  text-decoration: none;
+  color: white;
+  text-align: right;
 }
+
 .navbar ul li {
-    list-style-type: none;
-    display: inline;
-    margin: 20px;
-    padding: 0 30px 0 30px;
+  list-style-type: none;
+  display: inline;
+  margin: 20px;
+  padding: 0 30px 0 30px;
 }
 
 .navbar img {
-    width: 10%;
+  width: 10%;
 }
 
 /*slideshow*/
 
 .container {
-    height: 600px;
-    max-height: 100%;
-    overflow: hidden;
+  height: 600px;
+  max-height: 100%;
+  overflow: hidden;
 }
 
 .mySlides img {
-    max-width: 100%;
-    max-height: 600px;
-    overflow: hidden;
+  max-width: 100%;
+  max-height: 600px;
+  overflow: hidden;
 }
 
 /* Add a pointer when hovering over the thumbnail images */
@@ -118,7 +121,7 @@ body {
   border-radius: 0 3px 3px 0;
   user-select: none;
   -webkit-user-select: none;
-   background-color: #f2f2f2;
+  background-color: #f2f2f2;
 }
 
 /* Position the "next button" to the right */
@@ -156,46 +159,58 @@ body {
 }
 
 .mySlides {
-    animation: fadeIn 0.5s;
+  animation: fadeIn 0.5s;
 }
+
 @keyframes fadeIn {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
 }
 
 .ramen_preview_section {
-    color: mintcream;
-    text-align: center;
-    overflow: hidden;
-    background: black;
+  color: mintcream;
+  text-align: center;
+  overflow: hidden;
+  background: black;
 }
+
 #ramen_preview_title {
-    letter-spacing: 10px;
+  letter-spacing: 10px;
 }
 
 /*home page slider previews */
 .slider {
-    width: 100%;
-    height: 300px;
-    position: relative;
-    text-align: center;
-    justify-content: space-between;
-    background-color: #222222;
+  width: 100%;
+  height: 300px;
+  position: relative;
+  text-align: center;
+  justify-content: space-between;
+  background-color: #222222;
 }
 
 .slider img {
-    width: 13%;
-    height: 60%;
-    position: relative;
-    margin: 0 0 0 auto;
-    padding: 5% 5%;
-    border-radius: 50%;
+  width: 13%;
+  height: 60%;
+  position: relative;
+  margin: 0 0 0 auto;
+  padding: 5% 5%;
+  border-radius: 50%;
 }
 
 
 .slider img:first-child {
-    z-index: 1;
+  z-index: 1;
 }
+
 .slider img:nth-child(2) {
-    z-index: 0;
+  z-index: 0;
+}
+
+.menu-btn-home-page {
+  background-color: black;
 }
