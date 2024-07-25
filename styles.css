@@ -222,6 +222,7 @@ body {
 /* actual menu button styling */
 #button1 {
   background-color: black;
-  color: white;
+  color: white !important;
+  /* Use !important to override other styles if necessary */
   text-decoration: none;
 }
