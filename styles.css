@@ -225,14 +225,10 @@ body {
   color: white;
   text-decoration: none;
   border: none;
-  /* Add this to remove any default button border */
   padding: 10px 20px;
-  /* Add some padding for better appearance */
   cursor: pointer;
-  /* Change cursor to pointer on hover */
 }
 
-/* style for the link inside the button */
 #button1 a {
   color: white;
   text-decoration: none;
@@ -241,7 +237,6 @@ body {
   height: 100%;
   text-align: center;
   line-height: normal;
-  /* Adjust this if needed */
 }
 
 .menubuttonarea {
