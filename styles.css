@@ -243,3 +243,7 @@ body {
   line-height: normal;
   /* Adjust this if needed */
 }
+
+.menubuttonarea {
+  background-color: black;
+}
