@@ -227,6 +227,7 @@ body {
   border: none;
   padding: 10px 20px;
   cursor: pointer;
+  justify-content: center;
 }
 
 #button1 a {
