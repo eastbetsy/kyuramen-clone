@@ -244,10 +244,11 @@ body {
   background-color: black;
 }
 
-.pic-right {
+.section {
   position: relative;
   float: left;
   text-align: center;
   justify-content: center;
   width: 50%;
+  padding: auto;
 }
