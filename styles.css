@@ -259,3 +259,7 @@ body {
 .section .pic-right p {
   font-size: 30px;
 }
+
+.section .pic-right img {
+  float: left;
+}
