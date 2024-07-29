@@ -243,3 +243,9 @@ body {
 .menubuttonarea {
   background-color: black;
 }
+
+.pic-right {
+  float: left;
+  text-align: center;
+  justify-content: center;
+}
