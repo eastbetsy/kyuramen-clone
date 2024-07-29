@@ -252,6 +252,10 @@ body {
   width: 50%;
 }
 
+.section .pic-right {
+  height: 500px;
+}
+
 .section .pic-right p {
   font-size: 50px;
 }
