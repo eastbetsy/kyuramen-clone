@@ -263,5 +263,5 @@ body {
 .section .pic-right img {
   position: absolute;
   float: left;
-  max-width: 100%;
+  max-width: 50%;
 }
