@@ -262,7 +262,6 @@ body {
 }
 
 .section .pic-right img {
-  position: inline-block;
-  float: left;
+  display: inline-block;
   max-width: 50%;
 }
